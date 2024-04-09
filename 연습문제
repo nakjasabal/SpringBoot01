@@ -1,0 +1,15 @@
+컨트롤러의 list메서드
+int pageSize = 2;//한 페이지당 게시물 수
+int blockPage = 2;//한 블럭당 페이지번호 수
+고정된 값으로 되어있다. 사용자정의 프로퍼티 파일을 생성한 후 
+값을 읽어와서 사용해라. 
+파일명 : myapps.properties
+board.pagesize=2
+board.blockpage=2
+
+----------------------------------------------
+
+ 
+
+
+
